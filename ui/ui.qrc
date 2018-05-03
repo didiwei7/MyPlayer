@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/img/player_next.png</file>
+        <file>res/img/player_pause.png</file>
+        <file>res/img/player_play.png</file>
+        <file>res/img/player_previous.png</file>
+        <file>res/img/player_taskbar.png</file>
+        <file>C:/Users/HP/Pictures/1.bmp</file>
+    </qresource>
+</RCC>
